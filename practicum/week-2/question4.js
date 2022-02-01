@@ -22,6 +22,5 @@ function funct(A,B){
       
       }
       }
-    }return 'Output: ${count}';
+    }return count;
     }
- console.log(funct('asDf','dsssaaFa'));
